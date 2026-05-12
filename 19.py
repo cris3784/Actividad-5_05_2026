@@ -1,3 +1,4 @@
+print("Hello")
 print("Hola usuario, inicia con nuestro menú llamado MenSys, elije la opcion que quieras para interactuar con este programa.")
 print("Menú principal")
 print("1. Imprimir")
