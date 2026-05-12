@@ -1,5 +1,5 @@
 print("Hello")
-#Este programa muestra un menu con varias opciones, y muestra un sub menu para elegir mas opciones para mostrar variedad
+#Este programa muestra un menu con varias opciones, y muestra un sub menu para elegir mas opciones para mostrar variedad.
 print("Hola usuario, inicia con nuestro menú llamado MenSys, elije la opcion que quieras para interactuar con este programa.")
 print("Menú principal")
 print("1. Imprimir")
